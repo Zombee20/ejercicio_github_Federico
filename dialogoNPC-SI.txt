@@ -1,0 +1,3 @@
+Dialogo-SI-1 : !Oh, muchas gracias¡ Prometo que te recompensare por tu ayuda.
+
+Dialogo-SI-1 : Necesito que recojas las papas que están en mi jardín.
