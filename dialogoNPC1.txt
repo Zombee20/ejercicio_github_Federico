@@ -3,3 +3,5 @@ Dialogo 1: Hola, joven aventurero.
 Dialogo 2: Veo que eres una persona bastante formidable, eso es increíble.
 
 Dialogo 3: ¿Crees que puedas ayudarme con una cosita?
+
+["dialogoNPC-NO"]
