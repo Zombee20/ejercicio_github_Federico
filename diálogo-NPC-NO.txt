@@ -1,0 +1,3 @@
+Diálogo-NPC-NO-1 : Oh, ya veo, supongo que tendré que esperar a otro aventurero que esté dispuesto a realizar esta tarea.
+
+Diálogo-NPC-NO-2 : Supongo que puedes seguir explorando el pueblo en busca de misiones que estén a tu nivel.
